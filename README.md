@@ -15,7 +15,9 @@ A customizable and responsive admin dashboard template built with React, designe
 
 
  # 🚀Getting Started
+ 
  1. Clone the repository:
+  
    ![Static Badge](https://img.shields.io/badge/GitHub-YogeshwareeDafane-blue?style=for-the-badge&logo=github&labelColor=black)
 
 2. Install dependencies:
@@ -40,7 +42,7 @@ A customizable and responsive admin dashboard template built with React, designe
 
 ## 🌟Features
 
--Responsive Design: Adapts to different screen sizes and devices (desktops, tablets, mobile phones).
+- Responsive Design: Adapts to different screen sizes and devices (desktops, tablets, mobile phones).
 
 - Customizable: Easily change colors, fonts, and layout to fit your brand.
 
@@ -61,7 +63,6 @@ A customizable and responsive admin dashboard template built with React, designe
 
 ## Acknowledgements🙏
 - React Community: For building and maintaining the React library, which powers our dashboard.
-
 
 - Bootstrap Team: For creating the Bootstrap framework, which influenced our responsive design.
 
