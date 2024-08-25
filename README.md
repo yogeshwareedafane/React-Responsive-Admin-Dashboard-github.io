@@ -4,7 +4,7 @@
 A customizable and responsive admin dashboard template built with React, designed to help developers create fast and efficient Admin Dashboard.
 
 # Technologies Used💻
- ![Static Badge](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&labelColor=black)
+ ![Static Badge](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&labelColor=black)  
 
  ![Static Badge](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&labelColor=black)
 
