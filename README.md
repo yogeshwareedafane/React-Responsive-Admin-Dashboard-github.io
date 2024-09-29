@@ -1,7 +1,7 @@
 # <p align="center"> 🚀React Responsive Admin Dashboard🚀</p>
 
 
-A customizable and responsive admin dashboard template built with React, designed to help developers create fast and efficient Admin Dashboard.
+## A customizable and responsive admin dashboard template built with React, designed to help developers create fast and efficient Admin Dashboard.
 
 # Technologies Used💻
  ![Static Badge](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&labelColor=black)  
@@ -69,9 +69,10 @@ A customizable and responsive admin dashboard template built with React, designe
 - Design Inspiration: To Dribbble, Behance, and UI design communities for inspiring our design and user experience.
 
 ## Authors🖋️
-Yogeshwaree Dafane
+![Static Badge]( https://img.shields.io/badge/Yogeshwaree_Dafane-darkblue)
 
-License 📜
+                                              
+## License 📜
 
 ![Static Badge](https://img.shields.io/badge/MIT-License-%20red?style=for-the-badge&logo=MIT&labelColor=black)
 
